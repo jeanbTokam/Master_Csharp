@@ -21,6 +21,7 @@ namespace interviews_practice
             //add value into rows 
             row1["NAME"] = "jb";
             row1["JOBS"] = "Software Engineer";
+            row1[row1 == null ? 0 : 1] = 1;
 
             // add row1 to Rows
             dt.Rows.Add(row1);
@@ -39,6 +40,9 @@ namespace interviews_practice
 
 
             dt.AsDataView().Dispose();
+
+
+            /// DataColumn is 
         }
     }
 }
