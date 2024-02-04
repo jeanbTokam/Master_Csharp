@@ -1,0 +1,14 @@
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\bin\Debug\net6.0\Master_Csharp.exe
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\bin\Debug\net6.0\Master_Csharp.deps.json
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\bin\Debug\net6.0\Master_Csharp.runtimeconfig.json
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\bin\Debug\net6.0\Master_Csharp.dll
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\bin\Debug\net6.0\Master_Csharp.pdb
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.AssemblyInfoInputs.cache
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.AssemblyInfo.cs
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.dll
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\refint\Master_Csharp.dll
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.pdb
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\Master_Csharp.genruntimeconfig.cache
+C:\Users\jbtok\source\repos\Master_Csharp\Master_Csharp\obj\Debug\net6.0\ref\Master_Csharp.dll
